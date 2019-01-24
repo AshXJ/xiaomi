@@ -1,1 +1,1 @@
-# xiaomi
+# Adaway Xiaomi blocklist
